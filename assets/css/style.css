@@ -1,4 +1,9 @@
 
+body{
+    background-color: #ffecef;
+
+}
+
 .navbar {
     background-color: #ffc0cb;
 }
@@ -12,14 +17,18 @@
     font-family: 'Lovers Quarrel', cursive;
 }
 
+.section1 i {
+    font-size: large;
+}
+
 /* edit text */
 .edit1 {
-    font-size: 30px;
+    font-size: 35px;
     padding-top: 10px;
 }
 .edit2 {
-    padding-left: 30px;
-    font-size: 30px;
+    font-size: 35px;
+    padding-left: 35px;
 }
 
 .edit3 {
@@ -30,8 +39,4 @@
 
 .section2 {
     background-color: white;
-}
-
-.section3 {
-    background-color: black;
 }
